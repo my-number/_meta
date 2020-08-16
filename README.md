@@ -11,6 +11,18 @@ So I made it for the mapping for them.
 git clone --recursive https://github.com/my-number/_meta myna
 ```
 
+## Packages
+
+- connect-lib
+  - https://github.com/my-number/connect-lib
+- lib
+  - https://github.com/my-number/myna
+- connect-popup
+  - https://github.com/my-number/connect
+- daemon
+  - https://github.com/my-number/mynad
+  
+  
 ## Branch
 
 - master
