@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/my-number/myna
+[submodule "daemon"]
+	path = daemon
+	url = https://github.com/my-number/mynad
