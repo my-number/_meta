@@ -4,3 +4,10 @@
 [submodule "daemon"]
 	path = daemon
 	url = https://github.com/my-number/mynad
+[submodule "connect-lib"]
+	path = connect-lib
+	url = https://github.com/my-number/connect-lib
+[submodule "connect-popup"]
+	path = connect-popup
+	url = https://github.com/my-number/connect
+
