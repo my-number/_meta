@@ -21,7 +21,8 @@ git clone --recursive https://github.com/my-number/_meta myna
   - https://github.com/my-number/connect
 - daemon
   - https://github.com/my-number/mynad
-  
+- streamsha
+  - https://github.com/my-number/streamsha
   
 ## Branch
 
