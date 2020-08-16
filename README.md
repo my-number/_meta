@@ -23,6 +23,10 @@ git clone --recursive https://github.com/my-number/_meta myna
   - https://github.com/my-number/mynad
 - streamsha
   - https://github.com/my-number/streamsha
+- chain
+  - https://github.com/my-number/mynachain
+- appv1
+  - https://github.com/my-number/mynachain-app
   
 ## Branch
 

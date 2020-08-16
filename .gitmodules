@@ -10,7 +10,12 @@
 [submodule "connect-popup"]
 	path = connect-popup
 	url = https://github.com/my-number/connect
-
 [submodule "streamsha"]
 	path = streamsha
 	url = https://github.com/my-number/streamsha.git
+[submodule "appv1"]
+	path = appv1
+	url = https://github.com/my-number/mynachain-app
+[submodule "chain"]
+	path = chain
+	url = https://github.com/my-number/mynachain.git
