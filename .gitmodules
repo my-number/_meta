@@ -19,3 +19,6 @@
 [submodule "chain"]
 	path = chain
 	url = https://github.com/my-number/mynachain.git
+[submodule "grayzone"]
+	path = grayzone
+	url = https://github.com/my-number/grayzone.git
