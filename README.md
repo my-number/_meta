@@ -27,7 +27,8 @@ git clone --recursive https://github.com/my-number/_meta myna
   - https://github.com/my-number/mynachain
 - appv1
   - https://github.com/my-number/mynachain-app
-  
+- firebase-auth
+  - https://github.com/my-number/firebase-auth
 ## Branch
 
 - master
