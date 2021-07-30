@@ -19,3 +19,6 @@
 [submodule "chain"]
 	path = chain
 	url = https://github.com/my-number/mynachain.git
+[submodule "android"]
+	path = android
+	url = https://github.com/my-number/android.git
